@@ -9,12 +9,14 @@ Author:  Erin James Wills - ejw.data@gmail.com
 
 ## Overview  
 <hr>  
-Compares several machine learning clustering models to determine whether the currencies can be logically classified based on the given data 
 
+Compares several machine learning clustering models to determine whether the currencies can be logically classified based on the given data   
+   
 <br>  
 
 ## Technologies    
 *  Python
+*  Scikit-Learn
 
 <br>
 
@@ -28,7 +30,9 @@ Unknown
 1. Environment needs the following:  
     *  Python 3.6+  
     *  pandas  
-1. Activate your environment
+    *  scikit-learn
 1. Clone the repo to your local machine
+1. Activate your environment in that directory  
+1. Open a Jupyter Notebook   
 1. Run `xxxxx.ipynb`  
 
