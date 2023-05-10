@@ -1,3 +1,6 @@
+# folders not to be added
+archive/
+
 # specific to local machine
 desktop.ini 
 .DS_Store
