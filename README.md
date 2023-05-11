@@ -81,19 +81,24 @@ Four clusters were generated with two clusters having very few instances and two
 
 ![PCA Loadings](./images/loading-plot.jpg)  
 
+
 **Scree Plot**  
 
 ![Scree Plot](./images/scree-plot.jpg)  
+
 
 **Plot of Explained Variance**  
 
 ![Explained Variance](./images/explained-variance-plot.jpg)  
 
+
 **Determination of Optimal Number of Clusters**  
 
 ![Elbow Plot](./images/elbow-inertia-plot.jpg)  
 
+
 <br>  
+
 
 ![Elbow Plot](./images/elbow-distortion-plot.jpg)  
  
