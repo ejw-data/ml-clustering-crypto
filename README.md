@@ -66,12 +66,35 @@ Four clusters were generated with two clusters having very few instances and two
 * Very few proof_type variables are in both Cluster 1 and Cluster 3 - it looks like POW are in Cluster 3 and POS and hybrid types are in Cluster 1  
 
 
-**Plot of Two Most Significant Features  
+**Plot of Two Most Significant Features**  
 
 ![Feature Plot](./images/two-feature-plot.jpg)
 
 <br>
 
-**Plot of PCA and Cluster Analyses  
+**Plot of Principle Components of Clusters** 
 
-![Cluster Analysis](./images/cluster-plot.jpg)
+![Cluster Analysis](./images/cluster-plot.jpg)  
+
+
+**Plot of PCA Loadings**  
+
+![PCA Loadings](./images/loading-plot.jpg)  
+
+**Scree Plot**  
+
+![Scree Plot](./images/scree-plot.jpg)  
+
+**Plot of Explained Variance**  
+
+![Explained Variance](./images/explained-variance-plot.jpg)  
+
+**Determination of Optimal Number of Clusters**  
+
+![Elbow Plot](./images/elbow-inertia-plot.jpg)  
+
+<br>  
+
+![Elbow Plot](./images/elbow-distortion-plot.jpg)  
+ 
+
